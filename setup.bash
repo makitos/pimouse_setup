@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by toshihiro maki
+#Written by T. Maki
 
 exec 2>  /tmp/setup.log
 
